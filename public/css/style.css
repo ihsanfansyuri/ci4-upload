@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap");
+
+body {
+  font-family: "Andada Pro", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.card {
+  border: 5px;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 20px;
+}
+
+.card-body {
+  padding: 20px 0 0 0;
+}
+
+.tombol {
+  color: white;
+  text-decoration: none;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 20%;
+}
+
+.tabel {
+  text-align: center;
+}
+
+/* .table > tbody > tr > td {
+  vertical-align: middle;
+}
+
+.gambar {
+  width: 80px;
+  border-radius: 50%;
+} */
